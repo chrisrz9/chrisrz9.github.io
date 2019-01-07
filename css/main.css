@@ -9,6 +9,8 @@ main {
 	display: block;
 	position: relative;
 	
+	color: #ffffff;
+	
 	background-color: rgba(17, 17, 17, .9);
 	
 	height: 900px;
