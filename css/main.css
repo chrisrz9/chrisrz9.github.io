@@ -5,3 +5,12 @@ html {
 	
 	margin: 0;
 }
+main {
+	display: block;
+	position: relative;
+	
+	background-color: rgba(17, 17, 17, .9);
+	
+	height: 900px;
+	width: 100%;
+}
